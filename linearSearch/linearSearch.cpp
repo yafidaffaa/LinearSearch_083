@@ -32,5 +32,8 @@ void input()
 
 void LinearSearch()
 {
+	char ch;
+	int compasisons; // Number of comparisons
 
+	
 }
